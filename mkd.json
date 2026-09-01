@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-x86_64-pc-windows-msvc.zip",
-      "hash": ""
+      "hash": "e202ed9c89bae034a09c8b55bc55ce153b654af022939bf28b3e32e43baef8b0"
     },
     "arm64": {
       "url": "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-aarch64-pc-windows-msvc.zip",
-      "hash": ""
+      "hash": "9c05f04e68739008bb4205913b6d25207ce6baecfb6cbc9fe3487575d2997cc5"
     }
   },
   "bin": "mkd.exe",
