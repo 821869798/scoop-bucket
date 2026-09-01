@@ -1,16 +1,16 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cross-platform directory bookmark manager with a Rust TUI and shell integration",
   "homepage": "https://github.com/821869798/markd",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-x86_64-pc-windows-msvc.zip",
-      "hash": "e202ed9c89bae034a09c8b55bc55ce153b654af022939bf28b3e32e43baef8b0"
+      "url": "https://github.com/821869798/markd/releases/download/v0.1.1/mkd-x86_64-pc-windows-msvc.zip",
+      "hash": "cfeac34959a809e183dee7478251ffb48ecac8b41a277d0912a6c2932463973c"
     },
     "arm64": {
-      "url": "https://github.com/821869798/markd/releases/download/v0.1.0/mkd-aarch64-pc-windows-msvc.zip",
-      "hash": "9c05f04e68739008bb4205913b6d25207ce6baecfb6cbc9fe3487575d2997cc5"
+      "url": "https://github.com/821869798/markd/releases/download/v0.1.1/mkd-aarch64-pc-windows-msvc.zip",
+      "hash": "078e5c858cae3602df213fc51d97015328695f591e15bfba14cf04a86cc27534"
     }
   },
   "bin": "mkd.exe",
